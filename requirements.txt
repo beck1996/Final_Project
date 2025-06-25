@@ -1,0 +1,6 @@
+zxcvbn
+
+
+install it by using 
+
+pip install -r requirements.txt
