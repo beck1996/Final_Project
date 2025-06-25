@@ -1,0 +1,4 @@
+python analyzer.py --analyze "yourpassword"
+
+
+python analyzer.py --genwordlist --inputs anant 2001 dog --output anant_wordlist.txt
