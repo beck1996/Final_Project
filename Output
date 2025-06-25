@@ -1,0 +1,17 @@
+Wordlist: mywordlist.txt
+
+Strong/weak password analysis score: 0 (weak) to 4 (strong)
+
+
+
+
+
+---
+
+## 🚀 To Run the Project
+
+1. Create folder `password_analyzer/`
+2. Add all 3 files (`analyzer.py`, `README.md`, `requirements.txt`)
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
